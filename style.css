@@ -84,7 +84,7 @@ a[href="mailto:info@devstudio.com"] {
 
     }
 .hero-title{
-  
+  padding-top: 200px;
     font-weight: 900;
     padding: auto;
     font-size: 44px;
@@ -96,10 +96,12 @@ a[href="mailto:info@devstudio.com"] {
 }
 .hero-section{
     height: 600px;
-padding-top: 200px;
-/* background-image:url(./835.jpg); */
-background-repeat: no-repeat;
 
+background-image:url(./imeges/sl2_1600_600.jpg);
+/* background-repeat: no-repeat; */
+}
+.hero-pages{
+    height: 600px;
 }
 .hero-btn{
     border: none;
@@ -123,7 +125,6 @@ background-repeat: no-repeat;
     position: relative;
 }
 .what-do-we-do{
-    padding-top: 150px;
     padding-bottom:94px ;
     padding-left: auto;
     padding-right: auto;
